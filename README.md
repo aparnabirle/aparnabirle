@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @aparnabirle  
+- 👀 I’m interested in solving real-world problems using data and exploring cross-industry applications of data science  
+- 🌱 I’m currently learning Python, Power BI, and advanced Excel—building projects to sharpen my data skills  
+- 💞️ I’m looking to collaborate on beginner to intermediate data analysis and visualization projects  
+- 📫 How to reach me: https://www.linkedin.com/in/aparnabirle
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I started in finance but found my passion in data, and now I’m blending both to create insights that matter!
