@@ -15,6 +15,8 @@ Python pandas for data cleaning and analysis
 These projects simulate real FP&A and MIS use cases rather than tutorial-style exercises.
 
 You can reach me here:
+
+
 LinkedIn: https://www.linkedin.com/in/aparnabirle
 
 
