@@ -16,5 +16,9 @@ These projects simulate real FP&A and MIS use cases rather than tutorial-style e
 
 You can reach me here:
 LinkedIn: https://www.linkedin.com/in/aparnabirle
+
+
 Website: https://aparnabirle.netlify.app/
+
+
 Email: birle822aparna@gmail.com
