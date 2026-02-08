@@ -1,6 +1,6 @@
 Hi, I’m Aparna Birle.
 
-I’m a Finance Data Analyst working at the intersection of FP&A, MIS reporting, and business intelligence. I build SQL-driven data models and Power BI dashboards that help leadership teams track revenue, margins, burn rate, and cash runway.
+I’m a Finance and Data Analyst working at the intersection of FP&A, MIS reporting, and business intelligence. I build SQL-driven data models and Power BI dashboards that help leadership teams track revenue, margins, burn rate, and cash runway.
 
 I currently work as a Financial Data Analyst at FynTrust, delivering monthly management reports and automated dashboards for startups and SMEs. My work focuses on reducing manual reporting effort, improving KPI clarity, and enabling data-backed decisions.
 
